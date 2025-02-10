@@ -1,0 +1,11 @@
+Para criar um projeto no Laravel
+composer create-project --prefer-dist laravel/laravel NomeDoProjeto "9.4.*"
+
+acessar o diretório do projeto
+cd NomeDoProjeto
+
+abrir o vscode no diretório do projeto
+code .
+
+Para executar o projeto
+php artisan serve
